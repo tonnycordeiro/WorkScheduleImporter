@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WorkScheduleImporter.AddIn.Data.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogicalFileNameOfWorkScheduleTemplate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WorkScheduleTemplate</Value>
+    </Setting>
+    <Setting Name="CONFIG_SHEET_TRUE_VALUE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SIM</Value>
+    </Setting>
+    <Setting Name="CONFIG_SHEET_FALSE_VALUE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NÃO</Value>
+    </Setting>
+    <Setting Name="EXCEL_PROVIDER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft.ACE.OLEDB.12.0;</Value>
+    </Setting>
+    <Setting Name="EXCEL_EXTENDED_PROPERTIES" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Excel 12.0 XML</Value>
+    </Setting>
+    <Setting Name="EXCEL_MODE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Share Exclusive</Value>
+    </Setting>
+    <Setting Name="DB_DATE_TIME_STAMP_FORMAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yyyyMMddHHmmss</Value>
+    </Setting>
+    <Setting Name="DB_TRUE_VALUE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">T</Value>
+    </Setting>
+    <Setting Name="DB_FALSE_VALUE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F</Value>
+    </Setting>
+    <Setting Name="SHEET_NAME_WORK_SCHEDULE_MAIN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Escala</Value>
+    </Setting>
+    <Setting Name="SHEET_NAME_UNIT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AM</Value>
+    </Setting>
+    <Setting Name="SHEET_NAME_STATION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Base</Value>
+    </Setting>
+    <Setting Name="SHEET_NAME_EMPLOYEE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Funcionarios</Value>
+    </Setting>
+    <Setting Name="SHEET_NAME_CONFIG" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Config</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

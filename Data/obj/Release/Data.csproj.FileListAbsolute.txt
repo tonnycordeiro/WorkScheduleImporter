@@ -1,0 +1,72 @@
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll.config
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\CADBase.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\CADCore.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\log4net.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\IPSUtil.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\MapRender.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\PacketTypes.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\IPSProvider.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\IPSLogging.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\CadCommon.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.xml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\log4net.xml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Data.csproj.CopyComplete
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Sisgraph.Ips.Samu.AddIn.Data.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Sisgraph.Ips.Samu.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Sisgraph.Ips.Samu.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Sisgraph.Ips.Samu.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Data\obj\Release\Data.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Data.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\EntityFramework.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\Government.EmergencyDepartment.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\Government.EmergencyDepartment.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\EntityFramework.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\obj\Release\Data.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\obj\Release\WorkScheduleImporter.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Data\obj\Release\WorkScheduleImporter.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Data.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\EntityFramework.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\EntityFramework.SqlServer.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\Government.EmergencyDepartment.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\Government.EmergencyDepartment.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\EntityFramework.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\EntityFramework.SqlServer.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\obj\Release\Data.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\obj\Release\Data.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\obj\Release\WorkScheduleImporter.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Data\obj\Release\WorkScheduleImporter.AddIn.Data.pdb

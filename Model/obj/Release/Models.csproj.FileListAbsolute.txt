@@ -1,0 +1,33 @@
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\log4net.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\log4net.xml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Models.csproj.CopyComplete
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Models.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Models.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Model\obj\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\bin\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\bin\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\bin\Release\Government.EmergencyDepartment.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\obj\Release\Models.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\obj\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Model\obj\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\bin\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\bin\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\bin\Release\Government.EmergencyDepartment.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\obj\Release\Models.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\obj\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\obj\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\obj\Release\WorkScheduleImporter.AddIn.Models.Properties.Resources.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Model\obj\Release\Models.csproj.GenerateResource.cache

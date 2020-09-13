@@ -1,0 +1,237 @@
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Views.csprojAssemblyReference.cache
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\CheckHospital\CheckHospitalMain.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\CustomCad\CustomUnitOutOfServiceWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\CustomCancelEvent\CustomCancelEventMain.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\ExternalAgencyCall\ExternalAgencyCallMain.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\MapGuide\MapGuideMain.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\ChangeUnitWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\ImportWorkScheduleWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\LoginOutServiceUnit.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\MultiSelectMemberWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\UnitCrewMemberUserControl.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\CheckHospital\CheckHospitalMain.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\CustomCad\CustomUnitOutOfServiceWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\CustomCancelEvent\CustomCancelEventMain.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\ExternalAgencyCall\ExternalAgencyCallMain.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\MapGuide\MapGuideMain.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Submission\SubmissionWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\ChangeUnitWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\ImportWorkScheduleWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\EditUnitWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\LoginOutServiceUnit.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\MultiSelectMemberWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\UnitCrewMemberUserControl.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\UnitForceMap.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views_MarkupCompile.cache
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views_MarkupCompile.lref
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Views.dll.config
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Views.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Views.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\AddInFramework.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\CADBase.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\CADCore.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\DefaultAddIn.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\log4net.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Business.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.ViewModels.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\CadEntities.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\PacketTypes.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\CadCommon.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\MapRender.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\EntityFramework.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\IPSUtil.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\IPSLogging.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\IPSProvider.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Business.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Business.dll.config
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.ViewModels.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.ViewModels.dll.config
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\log4net.xml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll.config
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\EntityFramework.xml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\DefaultResources.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Submission\SubmissionWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\EditUnitWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\UnitForceMap\UnitForceMap.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.g.resources
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.Properties.Resources.resources
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Views.csproj.GenerateResource.cache
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Views.csproj.CopyComplete
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.dll
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.pdb
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\RetainedStretcher\AvailableEventsRetainedStretcherWindow.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\RetainedStretcher\RetainedStretcherMonitor.g.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\RetainedStretcher\AvailableEventsRetainedStretcherWindow.baml
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\RetainedStretcher\RetainedStretcherMonitor.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Views.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Views.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Views.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Business.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.ViewModels.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\CadEntities.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\PacketTypes.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\CadCommon.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\MapRender.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\EntityFramework.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\IPSUtil.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Business.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Business.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.ViewModels.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.ViewModels.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\Sisgraph.Ips.Samu.AddIn.Data.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\EntityFramework.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Views.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views_MarkupCompile.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views_MarkupCompile.lref
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\DefaultResources.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.g.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.Properties.Resources.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Views.csproj.GenerateResource.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Views.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\Sisgraph.Ips.Samu.AddIn.Views.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\WorkSchedule\ImportWorkScheduleWindow.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Release\WorkSchedule\ImportWorkScheduleWindow.g.cs
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\CadEntities.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\EntityFramework.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\EntityFramework.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\Views.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkSchedule\ImportWorkScheduleWindow.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkSchedule\ImportWorkScheduleWindow.g.cs
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\DefaultResources.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\Views.csproj.GenerateResource.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\Views.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views_MarkupCompile.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views_MarkupCompile.lref
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Views.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Views.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Views.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Government.EmergencyDepartment.AddIn.Business.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Government.EmergencyDepartment.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Business.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.ViewModels.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\Government.EmergencyDepartment.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Business.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Business.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.ViewModels.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.ViewModels.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Data.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.g.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.Properties.Resources.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Views.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Views.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Views.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Government.EmergencyDepartment.AddIn.Business.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Government.EmergencyDepartment.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\log4net.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Business.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Models.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.ViewModels.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Xceed.Wpf.Toolkit.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\CadEntities.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\EntityFramework.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\Government.EmergencyDepartment.AddIn.Data.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Business.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Business.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Models.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.ViewModels.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.ViewModels.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\log4net.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\EntityFramework.xml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Data.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\WorkScheduleImporter.AddIn.Data.dll.config
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\bin\Release\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\Views.csprojAssemblyReference.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkSchedule\ImportWorkScheduleWindow.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkSchedule\ImportWorkScheduleWindow.g.cs
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views_MarkupCompile.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views_MarkupCompile.lref
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\DefaultResources.baml
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.g.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.Properties.Resources.resources
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\Views.csproj.GenerateResource.cache
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\Views.csproj.CopyComplete
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.dll
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.pdb
+C:\TONNY\DRIVE\PROGRAMAÇÃO\PROJETOS CORRIGIDOS\WorkScheduleImporter\WorkScheduleImporter\Views\obj\x86\Release\WorkScheduleImporter.AddIn.Views.ViewResource.resources

@@ -1,0 +1,100 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\UnitTest\\UnitTest.csproj": {}
+  },
+  "projects": {
+    "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\Model\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\Model\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\Model\\Models.csproj"
+      },
+      "frameworks": {
+        "net451": {}
+      }
+    },
+    "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\UnitTest\\UnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\UnitTest\\UnitTest.csproj",
+        "projectName": "UnitTest",
+        "projectPath": "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\UnitTest\\UnitTest.csproj",
+        "packagesPath": "C:\\Users\\tccordei\\.nuget\\packages\\",
+        "outputPath": "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tccordei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\PROJETOS\\SAMU\\SAMU SP 9.3 MR5\\00-Fontes\\HereMapsWebApplication\\packages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://hexagon-si.pkgs.visualstudio.com/_packaging/OnCall94/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\Model\\Models.csproj": {
+                "projectPath": "C:\\TONNY\\DRIVE\\PROGRAMAÇÃO\\PROJETOS CORRIGIDOS\\WorkScheduleImporter\\WorkScheduleImporter\\Model\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

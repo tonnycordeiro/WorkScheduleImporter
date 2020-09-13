@@ -1,0 +1,20 @@
+﻿Sisgraph.Ips.Samu.AddIn.Views
+
+
+library
+C#
+.cs
+C:\PROJETOS\SAMU\SAMU SP 9.3 MR5\00-Fontes\Sisgraph.Ips.Samu.AddIn\Views\obj\x86\Debug\
+Sisgraph.Ips.Samu.AddIn.Views
+none
+false
+DEBUG;TRACE
+
+16611931956
+
+27-872874035
+26-1102546404
+CheckHospital\CheckHospitalMain.xaml;CustomCad\CustomUnitOutOfServiceWindow.xaml;CustomCancelEvent\CustomCancelEventMain.xaml;DefaultResources.xaml;ExternalAgencyCall\ExternalAgencyCallMain.xaml;MapGuide\MapGuideMain.xaml;RetainedStretcher\AvailableEventsRetainedStretcherWindow.xaml;RetainedStretcher\RetainedStretcherMonitor.xaml;Submission\SubmissionWindow.xaml;UnitForceMap\ChangeUnitWindow.xaml;UnitForceMap\ImportWorkScheduleWindow.xaml;UnitForceMap\EditUnitWindow.xaml;UnitForceMap\LoginOutServiceUnit.xaml;UnitForceMap\MultiSelectMemberWindow.xaml;UnitForceMap\UnitCrewMemberUserControl.xaml;UnitForceMap\UnitForceMap.xaml;
+
+False
+

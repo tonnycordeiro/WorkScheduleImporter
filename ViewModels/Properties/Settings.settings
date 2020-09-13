@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WorkScheduleImporter.AddIn.ViewModels.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AGENCY_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SAMU</Value>
+    </Setting>
+    <Setting Name="OUT_FILE_SUFFIX_DATE_FORMAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yyyyMMdd</Value>
+    </Setting>
+    <Setting Name="OPEN_FILE_DIALOG_DEFAUL_EXTENSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.xlsm</Value>
+    </Setting>
+    <Setting Name="OPEN_FILE_DIALOG_FILTER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Arquivos do Excel|*.xls;*.xlsx;*.xlsm</Value>
+    </Setting>
+    <Setting Name="OPEN_FILE_DIALOG_TITLE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Importação de arquivo</Value>
+    </Setting>
+    <Setting Name="SAVE_FILE_DIALOG_DEFAUL_EXTENSION" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.xlsm</Value>
+    </Setting>
+    <Setting Name="SAVE_FILE_DIALOG_FILTER" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Arquivos do Excel|*.xls;*.xlsx;*.xlsm</Value>
+    </Setting>
+    <Setting Name="SAVE_FILE_DIALOG_TITLE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Salve como</Value>
+    </Setting>
+    <Setting Name="DATE_FORMAT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dd/MM/yyy</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

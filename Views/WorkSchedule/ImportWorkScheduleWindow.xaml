@@ -1,0 +1,153 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="WorkScheduleImporter.AddIn.Views.UnitForceMap.ImportWorkScheduleWindow"
+        xmlns:local="clr-namespace:WorkScheduleImporter.AddIn.Views"
+        Background="GhostWhite"
+        Title="{x:Static local:ViewResource.IMPORTING_DIALOG_WINDOW_TITLE}" SizeToContent="Height" Width="1000.377" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Height="600">
+    <Window.Resources>
+        <ResourceDictionary Source="../DefaultResources.xaml"/>
+    </Window.Resources>
+    <StackPanel Margin="5,0,5,10">
+        <Label Content="{x:Static local:ViewResource.IMPORTING_DIALOG_MAIN_TITLE}" HorizontalAlignment="Center" FontWeight="Bold" FontSize="18" />
+        <CheckBox Margin="5,0,5,10" FontSize="15" Unchecked="CheckBox_Unchecked" Checked="CheckBox_Checked" IsChecked="{Binding IsPeriodicWorkSchedule}">
+            <TextBlock Text="{x:Static local:ViewResource.CHECK_BOX_CREATE_PERIODIC_WORK_SCHEDULE}"/>
+        </CheckBox>
+        <GroupBox Header="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_GROUB_BOX}" Name="GroupPeriodicWorkSchedule" Margin="5,0,5,10">
+            <StackPanel>
+                <StackPanel Margin="5,0,5,10" Orientation="Horizontal">
+                    <Label Content="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_INITIAL_DATE}" DockPanel.Dock="Left" Width="90" Height="32" FontSize="15"/>
+                    <DatePicker Name="StartDatePicker" SelectedDate="{Binding StartDate}" Width="160" Height="25" />
+                    <Label Content="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_FINAL_DATE}" DockPanel.Dock="Left" Width="90" Height="32" Margin="30 0 0 0" FontSize="15"/>
+                    <DatePicker Name="EndDatePicker" SelectedDate="{Binding EndDate}" Width="160" Height="25" />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="5,0,5,10">
+                    <Label Content="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_IMPORTING_TYPE}" DockPanel.Dock="Left" Width="150" Height="32" FontSize="15"/>
+                    <RadioButton Name="RadioBtCreatingWorkSchedule" VerticalAlignment="Center" GroupName="PeriodicWorkScheduleMode" IsChecked="{Binding IsCreatingWorkSchedule}" Content="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_IMPORTING_TYPE_CREATING}" FontSize="15">
+                    </RadioButton>
+                    <RadioButton Name="RadioBtMergingWorkSchedule" VerticalAlignment="Center" GroupName="PeriodicWorkScheduleMode" IsChecked="{Binding IsMergingWorkSchedule}" Content="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_IMPORTING_TYPE_MERGING}" FontSize="15" Margin="30 0 0 0">
+                    </RadioButton>
+                    <RadioButton Name="RadioBtUpdatingWorkSchedule" VerticalAlignment="Center" GroupName="PeriodicWorkScheduleMode" IsChecked="{Binding IsUpdatingWorkSchedule}" Content="{x:Static local:ViewResource.PERIODIC_WORK_SCHEDULE_IMPORTING_TYPE_UPDATING}" FontSize="15" Margin="30 0 0 0">
+                    </RadioButton>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        <DockPanel Height="84">
+            <Label Content="{x:Static local:ViewResource.FILE_LABEL}" DockPanel.Dock="Left" Width="69" Height="32" Margin="0,26" FontSize="15"/>
+            <TextBox IsReadOnly="True" Text="{Binding FullPathFile}" Margin="5,27,0,27" Width="680" Height="30" FontSize="15"/>
+            <Button x:Name="btnSearch" HorizontalAlignment="Right" Click="btnSearch_Click" Style="{StaticResource DefaultTextImageButton}" ToolTip="Pesquisar" Width="52" Margin="0,3" >
+                <DockPanel Margin="2">
+                    <Image Source="/WorkScheduleImporter.AddIn.Views;component/Images/Search48x48.png" DockPanel.Dock="Right" Width="30"/>
+                </DockPanel>
+            </Button>
+            <Button x:Name="btnValidate" HorizontalAlignment="Left" FontSize="15" Style="{StaticResource DefaultTextImageButton}" ToolTip="Validar" Margin="40 0 20 0" Click="btnValidate_Click" Width="113">
+                <DockPanel Width="100" Height="42" Margin="5">
+                    <Image Source="/WorkScheduleImporter.AddIn.Views;component/Images/Refresh.png" DockPanel.Dock="Right" Height="42" VerticalAlignment="Bottom"/>
+                    <TextBlock VerticalAlignment="Bottom" DockPanel.Dock="Left" Margin="0,0,0,14"><Run Text="{x:Static local:ViewResource.BUTTON_VALIDATE}"/></TextBlock>
+                </DockPanel>
+            </Button>
+        </DockPanel>
+        <StackPanel Margin="0,5,0,0" Orientation="Horizontal">
+                <DataGrid x:Name="dataGridReportValidation" ItemsSource="{Binding RevortValidationList}" 
+                          Background="White" IsReadOnly="True" GridLinesVisibility="None"
+                          VerticalAlignment="Top" Height="221" AutoGenerateColumns="False"
+                          Width="450" SelectionChanged="dataGridReportValidation_SelectionChanged">
+
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_WARNING_AND_ERRORS}"  Width="170" Binding="{Binding  Converter={StaticResource ReportValidationToMessageConverter}}" >
+                            <DataGridTextColumn.ElementStyle>
+                                <Style>
+                                    <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                    <Setter Property="TextBlock.FontSize" Value="15"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTextColumn Header="" Width="220" Binding="{Binding DataAffected}" >
+                            <DataGridTextColumn.ElementStyle>
+                                <Style>
+                                    <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                                    <Setter Property="TextBlock.FontSize" Value="15"/>
+                                </Style>
+                            </DataGridTextColumn.ElementStyle>
+                        </DataGridTextColumn>
+                        <DataGridTemplateColumn Width="30" IsReadOnly="True" Header="">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image Source="{Binding  Converter={StaticResource ValidationLevelImageConverter}}"></Image>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+                    </DataGrid.Columns>
+
+                </DataGrid>
+
+                <DataGrid x:Name="dataGridPeriodicWorkSchedule" ItemsSource="{Binding WorkScheduleImported.WorkScheduleForUnitList}" 
+                          Background="White" IsReadOnly="True" GridLinesVisibility="None" 
+                          VerticalAlignment="Top" Margin="30 0 0 0" Height="221" Width="450" AutoGenerateColumns="False">
+                    <DataGrid.RowStyle>
+                        <Style TargetType="{x:Type DataGridRow}">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding HasWarning}" Value="True">
+                                    <Setter Property="Background" Value="Yellow" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding HasError}" Value="True">
+                                    <Setter Property="Background" Value="Red" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding HasSelectedError}" Value="True">
+                                    <Setter Property="IsSelected" Value="True" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </DataGrid.RowStyle>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_ROW}"  Binding="{Binding Row}" />
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_DATE}"  Binding="{Binding ShiftDate, StringFormat='dd/MM/yyyy'}" />
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_SHIFT}" Binding="{Binding WorkshiftLabel}" />
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_UNIT}"  Binding="{Binding UnitId}" />
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_TYPE}"  Binding="{Binding UnitType}" />
+                        <DataGridTextColumn Header="{x:Static local:ViewResource.COLUMN_CREW}"  Binding="{Binding ConcatenatedCrewMembers}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+        </StackPanel>
+
+
+        <DockPanel Height="80">
+            <Button x:Name="btnBack" HorizontalAlignment="Left" FontSize="15" Click="btnBack_Click" Style="{StaticResource DefaultTextImageButton}" ToolTip="Voltar">
+                <DockPanel Width="138" Height="42" Margin="5">
+                    <Image Source="/WorkScheduleImporter.AddIn.Views;component/Images/Exit.png" DockPanel.Dock="Right"/>
+                    <TextBlock VerticalAlignment="Center" DockPanel.Dock="Left" ><Run Text="{x:Static local:ViewResource.BUTTON_GO_BACK}"/></TextBlock>
+                </DockPanel>
+            </Button>
+            <Button x:Name="btnDownloadModel" HorizontalAlignment="Right" FontSize="15"  Style="{StaticResource DefaultTextImageButton}" ToolTip="{x:Static local:ViewResource.BUTTON_DOWNLOAD_TOOL_TIP}" Margin="10" Click="btnDownloadModel_Click" >
+                <DockPanel Width="138" Height="42" Margin="5">
+                    <Image Source="/WorkScheduleImporter.AddIn.Views;component/Images/SheetIcon.png" DockPanel.Dock="Right" Height="42" VerticalAlignment="Top"  />
+                    <TextBlock VerticalAlignment="Bottom" DockPanel.Dock="Left" TextWrapping="Wrap"><Run Text="{x:Static local:ViewResource.BUTTON_DOWNLOAD}"/></TextBlock>
+                </DockPanel>
+            </Button>
+            <Border BorderBrush="#F1F4F7" BorderThickness="1" Background="#FEFEFE" Width="300" Height="80">
+                <StackPanel Margin="15">
+                    <StackPanel.Style>
+                        <Style TargetType="StackPanel">
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsLoading}" Value="True">
+                                    <Setter Property="Visibility" Value="Visible" />
+                                </DataTrigger>
+                                <DataTrigger Binding="{Binding IsLoading}" Value="False">
+                                    <Setter Property="Visibility" Value="Hidden" />
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </StackPanel.Style>
+                    <TextBlock Text="{Binding LoadingText}"></TextBlock>
+                    <ProgressBar IsIndeterminate="True" IsEnabled="True" Height="24"></ProgressBar>
+                </StackPanel>
+            </Border>
+            <Button x:Name="btnImport" HorizontalAlignment="Right" FontSize="15" Click="btnImport_Click" Style="{StaticResource DefaultTextImageButton}" ToolTip="{x:Static local:ViewResource.BUTTON_IMPORT_TOOL_TIP}"  IsEnabled="{Binding EnableImporting}">
+                <DockPanel Width="138" Height="42" Margin="5">
+                    <Image Source="/WorkScheduleImporter.AddIn.Views;component/Images/Import.png" DockPanel.Dock="Right"  />
+                    <TextBlock VerticalAlignment="Bottom" DockPanel.Dock="Left" Margin="0,0,0,14"><Run Text="{x:Static local:ViewResource.BUTTON_IMPORT}"/></TextBlock>
+                </DockPanel>
+            </Button>
+        </DockPanel>
+    </StackPanel>
+</Window>
